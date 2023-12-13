@@ -12,7 +12,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhid3482&label=Profile%20views&color=0e75b6&style=flat" alt="tawhid3482" /> </p>
 
+
+- 🔭 I’m currently working on **CSE student**
+
+- 🌱 I’m currently learning **full stack web development**
+
 - 💬 Ask me about **html,css,js,tailwind,react,mongodb**
+
+- 📫 How to reach me **tawhidulislam3482@gmail.com**
 
 - ⚡ Fun fact **coding**
 
