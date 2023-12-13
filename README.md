@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawhid3482&show_icons=true&locale=en" alt="tawhid3482" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tawhid3482&theme=icegray&border=14955D&ring=12B8EB&stroke=EBEA55&fire=EBEB14&currStreakNum=10C13B&sideNums=35DDEB&currStreakLabel=EBEA22&sideLabels=161513&dates=2A2A28)](https://git.io/streak-stats)
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid3482&" alt="tawhid3482" /></p>
