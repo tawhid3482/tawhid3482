@@ -1,7 +1,7 @@
 <figure>
     <img src="Banner/card.png"
          alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    <figcaption ></figcaption>
 </figure>
 
 
