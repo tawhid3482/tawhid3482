@@ -17,6 +17,10 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
+- 👯 I’m looking to collaborate on **Github**
+
+- 👨‍💻 All of my projects are available at [https://protfolio-52046.web.app](https://protfolio-52046.web.app)
+
 - 💬 Ask me about **html,css,js,tailwind,react,mongodb**
 
 - 📫 How to reach me **tawhidulislam3482@gmail.com**
