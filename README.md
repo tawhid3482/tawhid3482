@@ -1,5 +1,5 @@
 <figure>
-    <img src="Banner/card.png"
+    <img src="Banner/banner.pdf"
          alt="Albuquerque, New Mexico">
     <figcaption ></figcaption>
 </figure>
