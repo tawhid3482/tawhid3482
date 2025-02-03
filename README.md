@@ -1,6 +1,6 @@
 <figure>
-    <img src="Banner/banner.pdf"
-         alt="Albuquerque, New Mexico">
+    <img src="Banner/banner.png"
+         alt="Tawhidul Islam">
     <figcaption ></figcaption>
 </figure>
 
