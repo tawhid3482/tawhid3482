@@ -45,17 +45,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs," /><br>
 </div>
-...
-<!-- Stats Section End -->
-
-<h3 align="left">🏆 Achievements:</h3>
-
-<p align="left">
-  <a href="https://www.100daysofcode.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge" alt="100 Days of Code Badge"/>
-  </a>
-</p>
-
 <!-- OR Add more achievements here in future -->
 
 <!-- <p align="center"> 
@@ -89,6 +78,29 @@
          alt="GitHub Streak" />
   </p>
 </div>
+
+<!-- Stats Section End -->
+
+<!-- Achievements Section Start -->
+<h3 align="center">🏆 Achievements</h3>
+
+<div align="center">
+  <a href="https://www.100daysofcode.com" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?label=Challenge&labelColor=111827&message=100%20Days%20of%20Code&color=10B981&style=for-the-badge" 
+      alt="100 Days of Code Badge"
+      style="margin: 10px; transition: transform 0.3s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.1)';" 
+      onmouseout="this.style.transform='scale(1)';"
+    />
+  </a>
+</div>
+
+<!-- Optional Note -->
+<p align="center" style="font-style: italic; color: #6B7280;">
+  "Small progress each day adds up to big results!" 💪
+</p>
+<!-- Achievements Section End -->
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid3482&" alt="tawhid3482" /></p> -->
