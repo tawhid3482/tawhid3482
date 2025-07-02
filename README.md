@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://protfolio-52046.web.app](https://protfolio-52046.web.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pBXRWTPwwulcJ3kpbAOtBRt5-FhqbckX/view?usp=sharing](https://drive.google.com/file/d/1pBXRWTPwwulcJ3kpbAOtBRt5-FhqbckX/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1i5rAe5WUO5M84tfJNmHniHYMIjAcLRmf/edit?usp=sharing&ouid=109590518422837820316&rtpof=true&sd=true](Resume)
 
 - 💬 Ask me about **html,css,js,tailwind,react,mongodb,typescript,python**
 
